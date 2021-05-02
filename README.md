@@ -1,6 +1,6 @@
 Rusty Boids
 	A simple boid / flocking simulation written in Rust
-	with ``macroquad`
+	with `macroquad`
 	
 Run it
 	
